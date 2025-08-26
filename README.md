@@ -16,5 +16,6 @@ O site tem como objetivo expandir as vendas e apresentar de forma mais organizad
 4. Possibilidade de alterar os professores, intrumentos e aulas ofertadas
 5. Possibilidade de alterar os produtos
 
-Wireframes: https://www.figma.com/proto/nhEq3Nmu9psdwfhwyPgx3N/Wireframes?node-id=0-1&t=OAPtGLksDiCVoTo7-1 
+Wireframes: https://www.figma.com/proto/nhEq3Nmu9psdwfhwyPgx3N/Wireframes?node-id=0-1&t=OAPtGLksDiCVoTo7-1   
 
+https://www.figma.com/proto/nhEq3Nmu9psdwfhwyPgx3N/Wireframes?node-id=33-67&p=f&t=7VkKplR0xh1RcVTN-0&scaling=min-zoom&content-scaling=fixed&page-id=33%3A48&starting-point-node-id=33%3A67
